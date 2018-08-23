@@ -1,0 +1,134 @@
+body{
+	
+	background-image: url("popcorn2.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: middle;
+    background-size: 100%;
+    margin: 0;
+
+}
+
+
+#ik{
+    color: #5C0303;
+    
+}
+#ij
+    {
+    color:  #636262;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    }
+#io
+    {
+       color: greenyellow;
+    }
+#ih{
+    color: #5C0303;
+    font-size: 150%;
+}
+#contact{
+    color: #5C0303;
+    font-size: 150%;
+    
+}
+
+a:link    {
+    /* Applies to all unvisited links */
+    text-decoration:  none;
+    font-weight:      bold;
+    background-color: none;
+    color:            blue;
+    } 
+  a:visited {
+    /* Applies to all visited links */
+    text-decoration:  none;
+    font-weight:      bold;
+    background-color: none;
+    color:            #f0f;
+    } 
+  a:hover   {
+    /* Applies to links under the pointer */
+    text-decoration:  underline;
+    font-weight:      bold;
+    background-color: blue;
+    color:            #fff;
+    } 
+  a:active  {
+    /* Applies to activated links */
+    text-decoration:  underline;
+    font-weight:      bold;
+    background-color: black;
+    color: white;
+    } 
+#home{
+    text-decoration: none;
+    font-size: 150%;
+    color: #5C0303;
+    }
+ #dept{
+     text-decoration: none;
+     font-size: 150%;
+     color: #5C0303;
+ }
+#il{
+    color: greenyellow
+    font-size: 200px;
+    
+}
+
+#yup{
+    background-color: rgba(170, 189, 192, 0.43);
+    padding: 10px;
+    bottom: 8px 8px solid black;
+    border-bottom: inset grey;
+    border-radius: 10px;
+    margin: auto;
+
+
+}
+a{
+    
+    /* padding: 20px; */
+    margin: 40px;
+}
+li{
+    display: inline;
+}
+
+#Panther
+{
+	border-radius: 8px;
+}
+#Mummy
+{
+	border-radius: 8px;
+
+	-webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+
+}
+#Wars{
+border-radius: 8px;
+
+}
+#Jurassic
+{
+	border-radius: 8px;
+}
+#Incredible
+{
+	border-radius: 8px;
+}
+#Fallout
+{
+	border-radius: 8px;
+}
+#infinity
+{
+	border-radius: 8px;
+}
+#vn{
+	 color: #5C0303;
+}
